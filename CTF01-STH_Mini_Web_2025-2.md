@@ -167,7 +167,7 @@ I start to do solution with JavaScript script, read comment for understading wha
 })();
 </pre>
 
-Moment of true, I'm in (Finally from a whole 2 days attempt)
+Moment of truth, I'm in (Finally, my whole 2 days attempt)
 
 <img width="1600" height="819" alt="ctf5" src="https://github.com/user-attachments/assets/d83fb0e3-9b69-4836-8e54-f7e077fd48de" />
 
@@ -175,11 +175,16 @@ Moment of true, I'm in (Finally from a whole 2 days attempt)
 
 # Flag:
 
-Refresh (F5) one time, I got ADMIN privilege and button "ปิดระบบระบายน้ำชั่วคราว" appear, and at this point, this is my second time to solve this CTF so unfortunately, flag doesn't show up at all
+Refresh (F5) one time, I got ADMIN privilege and button "ปิดระบบระบายน้ำชั่วคราว" appears
+
+If you curious "Why you have almost identical Ray@gmail.com for Login", well, at this point, this is my second time to solve CTF, so unfortunately, flag doesn't show up at all
 
 Instead I posted images of proof that I actually get flag and rank in place
 
 <img width="1600" height="825" alt="ctf7" src="https://github.com/user-attachments/assets/50517d68-3a38-42e7-b4ad-8dbbb858516c" />
+
+***
+
 <img width="1600" height="823" alt="ctf8" src="https://github.com/user-attachments/assets/53a7bccc-1415-4ecb-9bd7-a11c3c6539be" />
 
 ***
